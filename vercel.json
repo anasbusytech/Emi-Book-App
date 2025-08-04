@@ -7,8 +7,5 @@
         "buildCommand": "npm install && npx prisma generate && npm run build && npx prisma migrate deploy"
       }
     }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/index.js" }
   ]
 }
