@@ -66,6 +66,7 @@ export default defineConfig({
     }),
     tsconfigPaths(),
   ],
+  base: process.env.VITE_BASE_PATH || "/Emi-Book-App",
   build: {
     assetsInlineLimit: 0,
   },
