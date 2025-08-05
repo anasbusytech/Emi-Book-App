@@ -3,7 +3,7 @@
 client_id = "764bafd07482a23d32f22da587e91651"
 name = "Book App"
 handle = "book-app-8"
-application_url = "https://haven-final-absorption-ashley.trycloudflare.com"
+application_url = "https://technology-libs-concerts-expired.trycloudflare.com"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = "write_products"
 
 [auth]
-redirect_urls = ["https://haven-final-absorption-ashley.trycloudflare.com/auth/callback", "https://haven-final-absorption-ashley.trycloudflare.com/auth/shopify/callback", "https://haven-final-absorption-ashley.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://technology-libs-concerts-expired.trycloudflare.com/auth/callback", "https://technology-libs-concerts-expired.trycloudflare.com/auth/shopify/callback", "https://technology-libs-concerts-expired.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
