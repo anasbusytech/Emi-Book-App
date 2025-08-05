@@ -11,7 +11,7 @@
   ],
   "routes": [
     {
-      "src": "/app/index",
+      "src": "/",
       "dest": "/routes/app.index.jsx"
     }
   ]
