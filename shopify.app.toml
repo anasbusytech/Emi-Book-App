@@ -3,7 +3,7 @@
 client_id = "764bafd07482a23d32f22da587e91651"
 name = "Book App"
 handle = "book-app-8"
-application_url = "https://kinase-satisfaction-untitled-communicate.trycloudflare.com"
+application_url = "https://book-app-seven-dusky.vercel.app/"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = "write_products"
 
 [auth]
-redirect_urls = ["https://kinase-satisfaction-untitled-communicate.trycloudflare.com/auth/callback", "https://kinase-satisfaction-untitled-communicate.trycloudflare.com/auth/shopify/callback", "https://kinase-satisfaction-untitled-communicate.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://book-app-seven-dusky.vercel.app/auth/callback", "https://book-app-seven-dusky.vercel.app/auth/shopify/callback", "https://book-app-seven-dusky.vercel.app/api/auth/callback"]
 
 [pos]
 embedded = false
