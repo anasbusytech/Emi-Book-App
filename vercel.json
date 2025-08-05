@@ -12,7 +12,7 @@
   "routes": [
     {
       "src": "/app/index",
-      "dest": "/index.js"
+      "dest": "/routes/app.index.jsx"
     }
   ]
 }
